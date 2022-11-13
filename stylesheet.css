@@ -1,0 +1,28 @@
+h1 {
+    font-size: 18px;
+}
+p {
+    font-size: 14px;
+}
+.first {
+    color: green;
+    border: 1px solid green;
+}
+.second {
+    color: red;
+    border: 1px solid red;
+}
+.third {
+    color: blue;
+    border: 1px solid blue;
+}
+section {
+    margin: 50px;
+    padding: 50px;
+}
+.italics {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
